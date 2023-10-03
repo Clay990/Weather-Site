@@ -1,2 +1,2 @@
 # Weather-Site
-Project Images/first progress image.png
+Project-Images/first-progress-image.png
