@@ -1,2 +1,3 @@
 # Weather-Site
-Project-Images/first-progress-image.png
+
+![Weather site template 1](Project-Images/first-progress-image.png)
