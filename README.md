@@ -1,3 +1,3 @@
 # Weather-Site
 
-![Weather site template 1](ProjectImages/firstprogressimage.png)
+![Weather site template 1](Images/FirstProgressImage.png)
