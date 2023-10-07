@@ -1,4 +1,4 @@
 # PixieClima Weather-Site
-## This Website is on the creating process
+## This Website is in the creation process
 
-![Weather site template 1](Images/PixieProgressImage2.png)
+![Weather site](Images/PixieProgressImage3.png)
